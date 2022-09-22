@@ -56792,7 +56792,7 @@ IC(a){var s=0,r=A.V(t.z),q,p=2,o,n=[],m=this,l,k,j,i,h,g
 var $async$oa=A.W(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:a=a
 l=A.ad_(null)
-a="http://localhost:5000"+a
+a="https://brrrgrrr-server3-b6r3.vercel.app"+a
 A.dq(a)
 k=null
 p=4
@@ -56824,7 +56824,7 @@ r6(a,b){return this.a0a(a,b)},
 a0a(a,b){var s=0,r=A.V(t.k8),q,p=2,o,n=[],m=this,l,k,j,i,h,g
 var $async$r6=A.W(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:a=a
-a="http://localhost:5000"+a
+a="https://brrrgrrr-server3-b6r3.vercel.app"+a
 i=m.b
 i.nl(B.er,a,null,null)
 i.nl(B.er,b,null,null)
