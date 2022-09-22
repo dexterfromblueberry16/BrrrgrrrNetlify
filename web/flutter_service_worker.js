@@ -32,7 +32,7 @@ const RESOURCES = {
 "assets/assets/images/ZingerBurger.jpg": "e3c9822c4b337438d60bb410b3755161",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "74c377a294a3521d5b1f9d0e54d5ee91",
+"assets/NOTICES": "9670ed1bd408fd7f6ecdc0324fcb2a83",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -44,9 +44,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6afa2275dda0da6d9e51353436ab5541",
-"/": "6afa2275dda0da6d9e51353436ab5541",
-"main.dart.js": "1bc238b700af65931b8a942bfc24f252",
+"index.html": "87b4fbfd3f36a97b9a474d5ebf02da30",
+"/": "87b4fbfd3f36a97b9a474d5ebf02da30",
+"main.dart.js": "20b09eed1daeb21ede96456043cba4d1",
 "manifest.json": "4137147246a11ba2148318bc696c4202",
 "version.json": "7cd6a41407e3ce7ca7e1a9f156efa75f"
 };
